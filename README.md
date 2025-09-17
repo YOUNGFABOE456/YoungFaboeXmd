@@ -24,7 +24,7 @@ Big thanks❤️ to <a href="https://github.com/xIKRATOSx" target="_blank">xIKRA
 # ```Bot Info```
 <p align="center">
 <a href="https://github.com/xIKRATOSx/followers"><img title="Followers" src="https://img.shields.io/github/followers/xIKRATOSx?color=red&style=flat-square"></a>
-<a href="https://github.com/Xeonbot54/XeonBotV7/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Xeonbot54/XeonBotV7?color=blue&style=flat-square"></a>
+<a href="https://github.com/Youngfaboe456/XeonBotV7/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Xeonbot54/XeonBotV7?color=blue&style=flat-square"></a>
 <a href="https://github.com/Xeonbot54/XeonBotV7/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Xeonbot54/XeonBotV7?color=red&style=flat-square"></a>
 <a href="https://github.com/Xeonbot54/XeonBotV7/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Xeonbot54/XeonBotV7?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Xeonbot54/XeonBotV7"><img title="Open Source" src="https://img.shields.io/badge/Author-xIKRATOSx%20Bot%20Inc.-red?v=103"></a>
@@ -39,7 +39,7 @@ Big thanks❤️ to <a href="https://github.com/xIKRATOSx" target="_blank">xIKRA
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/923470027813"><img src="https://img.shields.io/badge/Contact xIKRATOSx-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/message/TTCZXVXC2AU6M1"><img src="https://img.shields.io/badge/Contact xIKRATOSx-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/@xIKRATOSx"><img src="https://img.shields.io/badge/Subscribe xIKRATOSx-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@xIKRATOSx" /><br>
 </p>
