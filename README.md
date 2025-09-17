@@ -1,6 +1,6 @@
 
 
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩7ꫂ<br></h1>
+<h1 align="center">ꪶYoung Faboe Xmdꫂ<br></h1>
 <p align="center">
 <img src="https://media.tenor.com/sCkOgr0s6GsAAAAC/cheems-nerd.gif" alt="animated" width="540" height="280" />
 </p>
@@ -103,7 +103,7 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install imagemagick -y
 git clone https://github.com/Xeonbot54/XeonbotV7 
-cd CheemsBot-MD
+cd Youngfaboe-xmd 
 npm start
 ```
 ## `For VPS`
@@ -115,7 +115,7 @@ apt apt install libwebp
 apt apt install imagrmagick
 apt install bash
 git clone https://github.com/Xeonbot54/XeonbotV7 
-cd CheemsBot-MD7
+cd C
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
