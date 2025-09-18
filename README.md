@@ -1,36 +1,34 @@
-
-
 <h1 align="center">ꪶYoung Faboe Xmdꫂ<br></h1>
 <p align="center">
-<img src="https://media.tenor.com/sCkOgr0s6GsAAAAC/cheems-nerd.gif" alt="animated" width="540" height="280" />
+<img src="https://i.postimg.cc/fRKVTRFf/IMG-20250805-WA0037.gif" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Young Faboe Xmd Multi Device is a automated whatsapp bot developed by <a href="https://github.com/Youngfaboe456" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
-Big thanks❤️ to <a href="https://github.com/xIKRATOSx" target="_blank">xIKRATOSx</a> for huge contribution, Check out his bot <a href="https://github.com/xIKRATOSx/Ikratos-MD-v1" target="_blank">Ikratos-MD-v1</a>
+Big thanks💙 to <a href="https://github.com/Youngfaboe456 target="_blank">xIKRATOSx</a> for huge contribution, Check out his bot <a href="https://github.com/Youngfaboe456" target="_blank">Ikratos-MD-v1</a>
 </p>
 
 ---
 
 <p align="center">
-<a href="https://youtu.be/eE1bUUnR87Y"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+<a href="https://youtu.be/eE1bUUnR87Y"><img title="Size" src="
 </p>
 
 ------
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/xIKRATOSx/followers"><img title="Followers" src="https://img.shields.io/github/followers/xIKRATOSx?color=red&style=flat-square"></a>
+<a href="https://github.com/Youngfaboe456/followers"><img title="Followers" src="https://img.shields.io/github/followers/xIKRATOSx?color=red&style=flat-square"></a>
 <a href="https://github.com/Youngfaboe456/XeonBotV7/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Xeonbot54/XeonBotV7?color=blue&style=flat-square"></a>
-<a href="https://github.com/Xeonbot54/XeonBotV7/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Xeonbot54/XeonBotV7?color=red&style=flat-square"></a>
-<a href="https://github.com/Xeonbot54/XeonBotV7/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Xeonbot54/XeonBotV7?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Xeonbot54/XeonBotV7"><img title="Open Source" src="https://img.shields.io/badge/Author-xIKRATOSx%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/Xeonbot54/XeonBotV7/"><img title="Size" src="https://img.shields.io/github/repo-size/Xeonbot54/XeonBotV7?style=flat-square&color=green"></a>
+<a href="https://github.com/Youngfaboe456/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Xeonbot54/XeonBotV7?color=red&style=flat-square"></a>
+<a href="https://github.com/Youngfaboe456/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Xeonbot54/XeonBotV7?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Youngfaboe456/XeonBotV7/stargazers/"><img title="Open Source" src="https://img.shields.io/badge/Author-xIKRATOSx%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/Youngfaboe456/XeonBotV7/"><img title="Size" src="https://img.shields.io/github/repo-size/Xeonbot54/XeonBotV7?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/Xeonbot54/XeonBotV7&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Xeonbot54/XeonBotV7/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Youngfaboe456/XeonBotV7/stargazers//graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -39,9 +37,9 @@ Big thanks❤️ to <a href="https://github.com/xIKRATOSx" target="_blank">xIKRA
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/message/TTCZXVXC2AU6M1"><img src="https://img.shields.io/badge/Contact xIKRATOSx-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href=""><img src="https://img.shields.io/badge/Contact xIKRATOSx-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/@xIKRATOSx"><img src="https://img.shields.io/badge/Subscribe xIKRATOSx-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@xIKRATOSx" /><br>
+<a href="https://www.youtube.com/@YoungFaboe"><img src="https://img.shields.io/badge/Subscribe xIKRATOSx-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@YoungFaboe" /><br>
 </p>
 
 ## ```Donate Me```
