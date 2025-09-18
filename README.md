@@ -58,7 +58,7 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/Xeonbot54/XeonbotV7/fork)
+- FORK THE REPOSITORY [Here](https://github.com/YOUNGFABOE456/YoungFaboeXmd/fork)
 
 ## `Scan QR Code For Session`
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
