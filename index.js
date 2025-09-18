@@ -589,10 +589,11 @@ transform: translate(-50%, -50%);
     <body>
       <section>
         Thanks For Using Bot!
-   Developed By the help of xIKRATOSx
+   Developed By the help of Young Faboe
     </section>
    </body>
 </html>
 `
 app.get("/", (req, res) => res.type('html').send(html));
+
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}!`));
