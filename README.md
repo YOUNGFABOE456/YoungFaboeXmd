@@ -8,7 +8,7 @@ Young Faboe Xmd Multi Device is a automated whatsapp bot developed by <a href="h
 </p>
 
 <p align="center">
-Big thanks💙 to <a href="Youngfaboe456 target="_blankYoungfaboe456"</a> for huge contribution, Check out his bot <a href="https://github.com/Youngfaboe456" target="_blank">Ikratos-MD-v1</a>
+Big thanks💙 to <a href="Youngfaboe456 target="_blankYoungfaboe456"</a> for huge contribution, Check out his bot <a href="https://github.com/Youngfaboe456" target="_blank">Youngfaboe456</a>
 </p>
 
 ---
