@@ -66,8 +66,8 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
  ` BUILDPACKS`
 
 ```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+https://youngfaboexmd-32aed56bf5c2.herokuapp.com/
+https://youngfaboexmd-32aed56bf5c2.herokuapp.com/
 ```
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com/Xeonbot54/XeonBotV7)
