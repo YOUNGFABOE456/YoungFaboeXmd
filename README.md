@@ -39,7 +39,7 @@ Big thanks💙 to <a href="Youngfaboe456 target="_blankYoungfaboe456"</a><a href
 <p align="center">
 <a href=""><img src="https://wa.me/message/TTCZXVXC2AU6M1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029Vb6sYzrAe5VvtqUa0X1y"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.youtube.com/@YoungFaboe"><img src="https://img.shields.io/badge/Subscribe xIKRATOSx-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@YoungFaboe" /><br>
+<a href="https://www.youtube.com/@YoungFaboe"><img src="https://img.shields.io/badge/Subscribe Young Faboe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@YoungFaboe" /><br>
 </p>
 
 ## ```Donate Me```
