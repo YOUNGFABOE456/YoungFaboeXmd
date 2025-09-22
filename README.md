@@ -73,8 +73,8 @@ Copy code
 
 
 # Clone the repo
-git clone https://github.com/Mrandbad/ANDBAD-MD-V2.git
-cd ANDBAD-MD-V2
+git clone https://github.com/YOUNGFABOE456/YoungFaboeXmd.git
+cd YoungFaboeXmd
 
 # Install dependencies
 npm install
