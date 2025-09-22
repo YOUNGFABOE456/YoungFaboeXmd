@@ -1,7 +1,7 @@
 <a><img src=''/></a>
 <a><img src='https://i.postimg.cc/9F0bD9BG/Screenshot-20250814-123306.jpg'/></a>
 
-<p align="center">                                              Young Faboe-Xmd-𝛁456</p>
+<p align="center">                                              Young Faboe-Xmd-456</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+YoungFaboe+Xmd+𝛁456;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+YoungFaboe+𝐓𝐙;🚀+Next-Gen+Ai+Technology;🇹🇿+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
@@ -73,7 +73,7 @@ Copy code
 
 
 # Clone the repo
-git clone https://github.com/YOUNGFABOE456/YoungFaboeXmd.git
+git clone https://github.com/YOUNGFABOE456/YoungFaboeXmd.git 
 cd YoungFaboeXmd
 
 # Install dependencies
