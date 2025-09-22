@@ -43,7 +43,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['255783384967', '255783394967']
+  const ownerNumber = ['255759005296', '255759268584']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -69,7 +69,7 @@ const {
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("Andbad~", '');
+const sessdata = config.SESSION_ID.replace("Youngfaboexmd~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -258,7 +258,7 @@ const port = process.env.PORT || 9090;
 				}
  //================ownerreact==============
     
-  if(senderNumber.includes("255783394967")){
+  if(senderNumber.includes("255759005296")){
   if(isReact) return
   m.react("🤍")
    }
@@ -781,7 +781,7 @@ if (!isReact && senderNumber === botNumber) {
   }
   
   app.get("/", (req, res) => {
-  res.send("𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃-𝛁2 online 🟢");
+  res.send("YOUNGFABOE-X𝚳𝐃-𝛁456 online 🟢");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
