@@ -106,4 +106,4 @@ _______________________________________
 If you encounter any issues, open an Issue on GitHub or reach out via WhatsApp using the bot's pairing link.
 _______________________________________
 
-<p align="center">Made with ❤️ by Fabianjames 𝐓𝐙</p>
+<p align="center">Made with ❤️ by Fabianjames </p>
