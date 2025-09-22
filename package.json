@@ -1,13 +1,13 @@
 
 {
-  "name": "ANDBAD-MD-V2",
+  "name": "YOUNGFABOE-XMD-V456",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By ANDREW",
+  "description": "A WhatsApp Bot Created By FabianJames",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name ANDBAD-MD-V2",
-    "stop": "pm2 stop ANDBAD-MD-V2",
-    "restart": "pm2 restart ANDBAD-MD-V2"
+    "start": "pm2 start index.js --deep-monitoring --attach --name YOUNGFABOE-XMD-V456",
+    "stop": "pm2 stop YOUNGFABOE-XMD-V456",
+    "restart": "pm2 restart YOUNGFABOE-XMD-V456"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.18",
