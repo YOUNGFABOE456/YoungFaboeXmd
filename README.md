@@ -1,10 +1,10 @@
 <a><img src=''/></a>
 <a><img src='https://file.bwmxmd.online/bwmxmd_6ul7n.jpeg'/></a>
 
-<p align="center">                                              𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃-𝛁2</p>
+<p align="center">                                              Young Faboe-Xmd-𝛁456</p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+𝚫𝚴𝐃𝚩𝚫𝐃+𝚳𝐃+𝛁2;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+𝐀𝐍𝐃𝐑𝐄𝐖+𝐓𝐙;🚀+Next-Gen+Ai+Technology;🇹🇿+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+YoungFaboe+Xmd+𝛁456;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+YoungFaboe+𝐓𝐙;🚀+Next-Gen+Ai+Technology;🇹🇿+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Heroku-Deploy-blueviolet?logo=heroku&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/Mrandbad/ANDBAD-MD-V2?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/Mrandbad/ANDBAD-MD-V2?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/Mrandbad/YOUNGFABOE-XMD-V2?style=for-the-badge" />
 </p>
 
 ---
@@ -38,7 +38,7 @@
 
 ## 🚀 Deployment
 
-Deploy your own instance of **𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃-𝛁2** quickly on Heroku:
+Deploy your own instance of **YOUNGFABOE-X𝚳𝐃-𝛁456** quickly on Heroku:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Mrandbad/ANDBAD-MD-V2)
 
@@ -106,4 +106,4 @@ _______________________________________
 If you encounter any issues, open an Issue on GitHub or reach out via WhatsApp using the bot's pairing link.
 _______________________________________
 
-<p align="center">Made with ❤️ by 𝐀𝐍𝐃𝐑𝐄𝐖 𝐓𝐙</p>
+<p align="center">Made with ❤️ by Fabianjames 𝐓𝐙</p>
