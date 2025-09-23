@@ -16,7 +16,7 @@ cmd({
             react: { text: '⏳', key: mek.key }
         });
 
-        const menuCaption = `╭━━━〔 *𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃-𝛁2* 〕━━━┈⊷
+        const menuCaption = `╭━━━〔 *YOUNGFABOE-X𝚳𝐃* 〕━━━┈⊷
 ┃★╭──────────────
 ┃★│ 👑 *Owner :* ${config.OWNER_NAME}
 ┃★│ 🤖 *Baileys :* Multi Device
@@ -27,7 +27,7 @@ cmd({
 ┃★│ 🏷️ *Version :* 5.0.0 Pro
 ┃★╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
-╭━━〔 *Menu List* 〕━━┈⊷
+╭━━〔 *Faboe-Menu List* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈│1️⃣  📥 *Download Menu*
 ┃◈│2️⃣  👥 *Group Menu*
@@ -49,7 +49,7 @@ cmd({
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
                 newsletterJid: '120363399999197102@newsletter',
-                newsletterName: "ANDBAD-MD-V2",
+                newsletterName: "YOUNGFABOE-XMD",
                 serverMessageId: 143
             }
         };
@@ -68,7 +68,7 @@ cmd({
             },
             message: {
                 contactMessage: {
-                    displayName: "𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃-𝛁2",
+                    displayName: "YOUNGFABOE-X𝚳𝐃-𝛁456",
                     vcard: `BEGIN:VCARD\nVERSION:3.0\nN:ANDBAD-MD;BOT;;;\nFN:ANDBAD-MD\nitem1.TEL;waid=255 783 394 967:+255 783 394 967\nitem1.X-ABLabel:Bot\nEND:VCARD`
                 }
             }
@@ -87,7 +87,7 @@ cmd({
             },
             message: {
                 contactMessage: {
-                    displayName: "𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃-𝛁2",
+                    displayName: "YOUNGFABOE-X𝚳𝐃-𝛁456",
                     vcard: `BEGIN:VCARD\nVERSION:3.0\nN:ANDBAD-MD;BOT;;;\nFN:ANDBAD-MD\nitem1.TEL;waid=255 783 394 967:+255 783 394 967\nitem1.X-ABLabel:Bot\nEND:VCARD`
                 }
             }
@@ -99,7 +99,7 @@ cmd({
         const menuData = {
             '1': {
                 title: "📥 *Download Menu* 📥",
-                content: `╭━━━〔 *Download Menu* 〕━━━┈⊷
+                content: `╭━━━〔 *Faboe-Download Menu* 〕━━━┈⊷
 ┃★╭──────────────
 ┃★│ 🌐 *Social Media*
 ┃★│ • facebook [url]
@@ -133,7 +133,7 @@ cmd({
             },
             '2': {
                 title: "👥 *Group Menu* 👥",
-                content: `╭━━━〔 *Group Menu* 〕━━━┈⊷
+                content: `╭━━━〔 *Faboe-Group Menu* 〕━━━┈⊷
 ┃★╭──────────────
 ┃★│ 🛠️ *Management*
 ┃★│ • grouplink
@@ -168,7 +168,7 @@ cmd({
             },
             '3': {
                 title: "😄 *Fun Menu* 😄",
-                content: `╭━━━〔 *Fun Menu* 〕━━━┈⊷
+                content: `╭━━━〔 *Faboe-Fun Menu* 〕━━━┈⊷
 ┃★╭──────────────
 ┃★│ 🎭 *Interactive*
 ┃★│ • shapar
@@ -196,7 +196,7 @@ cmd({
             },
             '4': {
                 title: "👑 *Owner Menu* 👑",
-                content: `╭━━━〔 *Owner Menu* 〕━━━┈⊷
+                content: `╭━━━〔 *Faboe-Owner Menu* 〕━━━┈⊷
 ┃★╭──────────────
 ┃★│ ⚠️ *Restricted*
 ┃★│ • block @user
@@ -219,7 +219,7 @@ cmd({
             },
             '5': {
                 title: "🤖 *AI Menu* 🤖",
-                content: `╭━━━〔 *AI Menu* 〕━━━┈⊷
+                content: `╭━━━〔 *Faboe-AI Menu* 〕━━━┈⊷
 ┃★╭──────────────
 ┃★│ 💬 *Chat AI*
 ┃★│ • ai [query]
@@ -246,7 +246,7 @@ cmd({
             },
             '6': {
                 title: "🎎 *Anime Menu* 🎎",
-                content: `╭━━━〔 *Anime Menu* 〕━━━┈⊷
+                content: `╭━━━〔 *Faboe-Anime Menu* 〕━━━┈⊷
 ┃★╭──────────────
 ┃★│ 🖼️ *Images*
 ┃★│ • fack
@@ -272,7 +272,7 @@ cmd({
             },
             '7': {
                 title: "🔄 *Convert Menu* 🔄",
-                content: `╭━━━〔 *Convert Menu* 〕━━━┈⊷
+                content: `╭━━━〔 *Faboe-Convert Menu* 〕━━━┈⊷
 ┃★╭──────────────
 ┃★│ 🖼️ *Media*
 ┃★│ • sticker [img]
@@ -294,7 +294,7 @@ cmd({
             },
             '8': {
                 title: "📌 *Other Menu* 📌",
-                content: `╭━━━〔 *Other Menu* 〕━━━┈⊷
+                content: `╭━━━〔 *Faboe-Other Menu* 〕━━━┈⊷
 ┃★╭──────────────
 ┃★│ 🕒 *Utilities*
 ┃★│ • timenow
@@ -323,7 +323,7 @@ cmd({
             },
             '9': {
                 title: "💞 *Reactions Menu* 💞",
-                content: `╭━━━〔 *Reactions Menu* 〕━━━┈⊷
+                content: `╭━━━〔 *Faboe-Reactions Menu* 〕━━━┈⊷
 ┃★╭──────────────
 ┃★│ ❤️ *Affection*
 ┃★│ • cuddle @user
@@ -353,7 +353,7 @@ cmd({
             },
             '10': {
                 title: "🏠 *Main Menu* 🏠",
-                content: `╭━━━〔 *Main Menu* 〕━━━┈⊷
+                content: `╭━━━〔 *Faboe-Main Menu* 〕━━━┈⊷
 ┃★╭──────────────
 ┃★│ ℹ️ *Bot Info*
 ┃★│ • ping
