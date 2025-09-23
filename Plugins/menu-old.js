@@ -54,7 +54,7 @@ async (conn, mek, m, { from, sender, pushname, reply }) => {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363315949714553@newsletter',
-                        newsletterName: '𝚫𝚴𝐃𝚩𝚫𝐃 𝚫𝚰',
+                        newsletterName: 'YOUNGFABOE 𝚫𝚰',
                         serverMessageId: 143
                     }
                 }
@@ -85,7 +85,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━〔 *Logo List* 〕━━┈⊷
+        let dec = `╭━━〔 *Faboe-Logo List* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• neonlight
 ┃◈┃• blackpink
@@ -132,7 +132,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363315949714553@newsletter',
-                        newsletterName: "𝚫𝚴𝐃𝚩𝚫𝐃 𝚫𝚰",
+                        newsletterName: "YOUNGFABOE 𝚫𝚰",
                         serverMessageId: 143
                     }
                 }
@@ -155,7 +155,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, reply }) => {
     try {
-        let dec = `╭━━〔 *Reactions Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *Faboe-Reactions Menu* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• bully @tag
 ┃◈┃• cuddle @tag
@@ -198,7 +198,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363315949714553@newsletter',
-                        newsletterName: "𝚫𝚴𝐃𝚩𝚫𝐃 𝚫𝚰",
+                        newsletterName: "YOUNGFABOE 𝚫𝚰",
                         serverMessageId: 143
                     }
                 }
@@ -223,7 +223,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━〔 *Download Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *Faboe-Download Menu* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• facebook
 ┃◈┃• mediafire
@@ -281,7 +281,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363315949714553@newsletter',
-                        newsletterName: "𝚫𝚴𝐃𝚩𝚫𝐃 𝚫𝚰",
+                        newsletterName: "YOUNGFABOE 𝚫𝚰",
                         serverMessageId: 143
                     }
                 }
@@ -307,7 +307,7 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try
        {
-        let dec = `╭━━〔 *Group Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *Faboe-Group Menu* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• grouplink
 ┃◈┃• kickall
@@ -359,7 +359,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363315949714553@newsletter',
-                        newsletterName: "𝚫𝚴𝐃𝚩𝚫𝐃 𝚫𝚰",
+                        newsletterName: "YOUNGFABOE 𝚫𝚰",
                         serverMessageId: 143
                     }
                 }
@@ -385,7 +385,7 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
 
-        let dec = `╭━━〔 *Fun Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *Faboe-Fun Menu* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• shapar
 ┃◈┃• rate
@@ -426,7 +426,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363315949714553@newsletter',
-                        newsletterName: "𝚫𝚴𝐃𝚩𝚫𝐃 𝚫𝚰",
+                        newsletterName: "YOUNGFABOE 𝚫𝚰",
                         serverMessageId: 143
                     }
                 }
@@ -451,7 +451,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━〔 *Other Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *Faboe-Other Menu* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• timenow
 ┃◈┃• date
@@ -497,7 +497,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363315949714553@newsletter',
-                        newsletterName: "𝚫𝚴𝐃𝚩𝚫𝐃 𝚫𝚰",
+                        newsletterName: "YOUNGFABOE 𝚫𝚰",
                         serverMessageId: 143
                     }
                 }
@@ -522,7 +522,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━〔 *Main Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *Faboe-Main Menu* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• ping
 ┃◈┃• live 
@@ -549,7 +549,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363315949714553@newsletter',
-                        newsletterName: "𝚫𝚴𝐃𝚩𝚫𝐃 𝚫𝚰",
+                        newsletterName: "YOUNGFABOE 𝚫𝚰",
                         serverMessageId: 143
                     }
                 }
@@ -574,7 +574,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━〔 *Owner Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *Faboe-Owner Menu* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• owner
 ┃◈┃• menu
@@ -608,7 +608,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363315949714553@newsletter',
-                        newsletterName: "𝚫𝚴𝐃𝚩𝚫𝐃 𝚫𝚰",
+                        newsletterName: "YOUNGFABOE 𝚫𝚰",
                         serverMessageId: 143
                     }
                 }
@@ -633,7 +633,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━〔 *Convert Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *Faboe-Convert Menu* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• sticker
 ┃◈┃• sticker2
@@ -669,7 +669,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363315949714553@newsletter',
-                        newsletterName: "𝚫𝚴𝐃𝚩𝚫𝐃 𝚫𝚰",
+                        newsletterName: "YOUNGFABOE 𝚫𝚰",
                         serverMessageId: 143
                     }
                 }
@@ -695,7 +695,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-          let dec = `╭━━〔 *Anime Menu* 〕━━┈⊷
+          let dec = `╭━━〔 *Faboe-Anime Menu* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• fack
 ┃◈┃• dog
@@ -738,7 +738,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363315949714553@newsletter',
-                        newsletterName: "𝚫𝚴𝐃𝚩𝚫𝐃 𝚫𝚰",
+                        newsletterName: "YOUNGFABOE 𝚫𝚰",
                         serverMessageId: 143
                     }
                 }
@@ -764,7 +764,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━〔 *Ai Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *Faboe-Ai Menu* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• ai
 ┃◈┃• gpt3
@@ -797,7 +797,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363315949714553@newsletter',
-                        newsletterName: "𝚫𝚴𝐃𝚩𝚫𝐃 𝚫𝚰",
+                        newsletterName: "YOUNGFABOE 𝚫𝚰",
                         serverMessageId: 143
                     }
                 }
