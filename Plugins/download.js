@@ -75,7 +75,7 @@ cmd({
 
     const { desc, thumb, video_sd, video_hd } = data.result;
 
-    const caption = `╭━━━〔 *TWITTER DOWNLOADER* 〕━━━⊷\n`
+    const caption = `╭━━━〔 *FABOE-TWITTER DOWNLOADER* 〕━━━⊷\n`
       + `┃▸ *Description:* ${desc || "No description"}\n`
       + `╰━━━⪼\n\n`
       + `📹 *Download Options:*\n`
@@ -197,7 +197,7 @@ cmd({
       react: { text: "⬆️", key: m.key }
     });
 
-    const caption = `╭━━━〔 *MEDIAFIRE DOWNLOADER* 〕━━━⊷\n`
+    const caption = `╭━━━〔 *FABOE-MEDIAFIRE DOWNLOADER* 〕━━━⊷\n`
       + `┃▸ *File Name:* ${file_name}\n`
       + `┃▸ *File Type:* ${mime_type}\n`
       + `╰━━━⪼\n\n`
@@ -247,14 +247,14 @@ cmd({
     const app = data.datalist.list[0];
     const appSize = (app.size / 1048576).toFixed(2); // Convert bytes to MB
 
-    const caption = `╭━━━〔 *APK Downloader* 〕━━━┈⊷
+    const caption = `╭━━━〔 *FABOE-APK Downloader* 〕━━━┈⊷
 ┃ 📦 *Name:* ${app.name}
 ┃ 🏋 *Size:* ${appSize} MB
 ┃ 📦 *Package:* ${app.package}
 ┃ 📅 *Updated On:* ${app.updated}
 ┃ 👨‍💻 *Developer:* ${app.developer.name}
 ╰━━━━━━━━━━━━━━━┈⊷
-🔗 *Powered By 𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃-𝛁2*`;
+🔗 *Powered By YOUNGFABOE-X𝚳𝐃-𝛁456*`;
 
     await conn.sendMessage(from, { react: { text: "⬆️", key: m.key } });
 
