@@ -19,7 +19,7 @@ cmd({
         await reply("🔍 Checking for YOUNGFABOE-𝚫𝚰updates...");
 
         // Fetch the latest commit hash from GitHub
-        const { data: commitData } = await axios.get("https://github.com/Mrandbad/ANDBAD-MD-V2/commits/main");
+        const { data: commitData } = await axios.get("https://github.com/YOUNGFABOE456/YoungFaboeXmd/commits/main");
         const latestCommitHash = commitData.sha;
 
         // Get the stored commit hash from the database
@@ -33,7 +33,7 @@ cmd({
 
         // Download the latest code
         const zipPath = path.join(__dirname, "latest.zip");
-        const { data: zipData } = await axios.get("https://github.com/Mrandbad/ANDBAD-MD-V2/archive/main.zip", { responseType: "arraybuffer" });
+        const { data: zipData } = await axios.get("https://github.com/YOUNGFABOE456/YoungFaboeXmd/archive/main.zip", { responseType: "arraybuffer" });
         fs.writeFileSync(zipPath, zipData);
 
         // Extract ZIP file
