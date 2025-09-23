@@ -5,9 +5,9 @@ cmd({
     pattern: "pair",
     alias: ["getpair", "clonebot"],
     react: "✅",
-    desc: "Get pairing code for 𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃-𝛁2 bot",
+    desc: "Get pairing code for YOUNGFABOE-X𝚳𝐃 bot",
     category: "download",
-    use: ".pair +255783394XXX",
+    use: ".pair +255759005XXX",
     filename: __filename
 }, async (conn, mek, m, {
     from, quoted, body, isCmd, command, args, q, isGroup,
@@ -20,7 +20,7 @@ cmd({
 
         // Validate phone number format
         if (!phoneNumber || !phoneNumber.match(/^\+?\d{10,15}$/)) {
-            return await reply("❌ Please provide a valid phone number with the country code.\nExample: `.pair +2557833949XXX`");
+            return await reply("❌ Please provide a valid phone number with the country code.\nExample: `.pair +255759005XXX`");
         }
 
         // Request pairing code from your backend
@@ -32,7 +32,7 @@ cmd({
 
         const pairingCode = response.data.code;
 
-        await reply(`✅ *𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃-𝛁2 PAIRING SUCCESSFUL!*\n\n📲 *Phone:* ${phoneNumber}\n🔐 *Pairing Code:* ${pairingCode}`);
+        await reply(`✅ *YOUNGFABOE-X𝚳𝐃 PAIRING SUCCESSFUL!*\n\n📲 *Phone:* ${phoneNumber}\n🔐 *Pairing Code:* ${pairingCode}`);
 
     } catch (error) {
         console.error("Pair command error:", error);
