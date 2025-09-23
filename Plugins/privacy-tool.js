@@ -15,7 +15,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let privacyMenu = `╭━━〔 *Privacy Settings* 〕━━┈⊷
+        let privacyMenu = `╭━━〔 *Faboe-Privacy Settings* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• blocklist - View blocked users
 ┃◈┃• getbio - Get user's bio
@@ -49,7 +49,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363315949714553@newsletter',
-                        newsletterName: '𝐀𝐍𝐃𝐑𝐄𝐖-𝐓𝐙🇹🇿 SUPPORT',
+                        newsletterName: 'YOUNGFABOE-𝐓𝐙🇹🇿 SUPPORT',
                         serverMessageId: 143
                     }
                 }
