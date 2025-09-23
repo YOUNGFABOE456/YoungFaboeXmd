@@ -45,7 +45,7 @@ cmd({
             `🔽 *Reply with your choice:*\n` +
             `1.1 *Audio Type* 🎵\n` +
             `1.2 *Document Type* 📁\n\n` +
-            `${config.FOOTER || "𓆩andbad𓆪"}`;
+            `${config.FOOTER || "𓆩youngfaboe𓆪"}`;
 
         // Send thumbnail + info
         await conn.sendMessage(from, { image: { url: image }, caption: info }, { quoted: mek });
