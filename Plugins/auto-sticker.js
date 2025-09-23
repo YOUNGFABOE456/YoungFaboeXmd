@@ -17,7 +17,7 @@ cmd({
             from,
             {
               sticker: { url: data[keyword] },
-              package: '𝐀𝐍𝐃𝐑𝐄𝐖-𝐓𝐙🇹🇿'
+              package: 'YOUNGFABOE-𝐓𝐙🇹🇿'
             },
             { quoted: mek }
           );
