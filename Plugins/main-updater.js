@@ -16,7 +16,7 @@ cmd({
     if (!isOwner) return reply("This command is only for the bot owner.");
 
     try {
-        await reply("🔍 Checking for 𝚫𝚴𝐃𝚩𝚫𝐃-𝚫𝚰updates...");
+        await reply("🔍 Checking for YOUNGFABOE-𝚫𝚰updates...");
 
         // Fetch the latest commit hash from GitHub
         const { data: commitData } = await axios.get("https://github.com/Mrandbad/ANDBAD-MD-V2/commits/main");
@@ -26,10 +26,10 @@ cmd({
         const currentHash = await getCommitHash();
 
         if (latestCommitHash === currentHash) {
-            return reply("✅ Your 𝚫𝚴𝐃𝚩𝚫𝐃-𝚫𝚰 bot is already up-to-date!");
+            return reply("✅ Your YOUNGFABOE-𝚫𝚰 bot is already up-to-date!");
         }
 
-        await reply("🚀 Updating 𝚫𝚴𝐃𝚩𝚫𝐃-𝚫𝚰 Bot...");
+        await reply("🚀 Updating YOUNGFABOE-𝚫𝚰 Bot...");
 
         // Download the latest code
         const zipPath = path.join(__dirname, "latest.zip");
@@ -44,7 +44,7 @@ cmd({
 
         // Copy updated files, preserving config.js and app.json
         await reply("🔄 Replacing files...");
-        const sourcePath = path.join(extractPath, "𝚫𝚴𝐃𝚩𝚫𝐃-𝚫𝚰-main");
+        const sourcePath = path.join(extractPath, "YOUNGFABOE-𝚫𝚰-main");
         const destinationPath = path.join(__dirname, '..');
         copyFolderSync(sourcePath, destinationPath);
 
