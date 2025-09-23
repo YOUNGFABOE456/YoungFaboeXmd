@@ -65,7 +65,7 @@ cmd({
       `*${mediaType} Uploaded Successfully*\n\n` +
       `*Size:* ${formatBytes(mediaBuffer.length)}\n` +
       `*URL:* ${mediaUrl}\n\n` +
-      `> © Uploaded by 𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃-𝛁2`
+      `> © Uploaded by YOUNGFABOE-X𝚳𝐃-𝛁456`
     );
 
   } catch (error) {
