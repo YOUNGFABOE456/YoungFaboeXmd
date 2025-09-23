@@ -11,7 +11,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━❮ *DOWNLOAD CMD* ❯━┈⊷
+        let dec = `╭━❮ *FABOE-DOWNLOAD CMD* ❯━┈⊷
 ┃▸
 ┃▸📄 COMMAND: .play
 ┃▸❕ Download Audio from yt
@@ -59,7 +59,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃▸❕ Download mediafire files
 ╰━━━━━━━━━━━━⪼ 
 
-╭━❮ *ANMIE CMD* ❯━┈⊷
+╭━❮ *FABOE-ANMIE CMD* ❯━┈⊷
 ┃▸
 ┃▸📄 COMMAND: .yts
 ┃▸❕ Serch videos from yt
@@ -80,7 +80,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃▸❕ get romantic anime pics
 ╰━━━━━━━━━━━━⪼  
 
-╭━❮‍ *INFO CMD* ❯━┈⊷
+╭━❮‍ *FABOE-INFO CMD* ❯━┈⊷
 ┃▸
 ┃▸📄 COMMAND: .alive
 ┃▸❕ Check online or not
@@ -116,7 +116,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃▸❕ get bot repository 
 ╰━━━━━━━━━━━━⪼
 
-╭━❮ *OTHER CMD* ❯━┈⊷
+╭━❮ *FABOE-OTHER CMD* ❯━┈⊷
 ┃▸
 ┃▸📄 COMMAND: .joke 
 ┃▸❕ Get Rendom joke 
@@ -140,7 +140,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃▸❕ serch any words
 ╰━━━━━━━━━━━━⪼
 
-╭━❮ *GROUP CMD* ❯━┈⊷
+╭━❮ *FABOE-GROUP CMD* ❯━┈⊷
 ┃▸
 ┃▸📄 COMMAND: .mute
 ┃▸❕ Mute group
@@ -236,7 +236,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃▸❕ set time to disappear sms
 ╰━━━━━━━━━━━━⪼
 
-╭━❮ *OWNER CMD* ❯━┈⊷
+╭━❮ *FABOE-OWNER CMD* ❯━┈⊷
 ┃▸
 ┃▸📄 COMMAND: .update
 ┃▸❕ update bot velue 
@@ -281,7 +281,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃▸❕ get group jid
 ╰━━━━━━━━━━━━⪼
 
-╭━❮ *CONVERT CMD* ❯━┈⊷
+╭━❮ *FABOE-CONVERT CMD* ❯━┈⊷
 ┃▸
 ┃▸📄 COMMAND: .sticker
 ┃▸❕ convert photo to sticker
@@ -305,7 +305,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363315949714553@newsletter',
-                        newsletterName: '𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃-𝛁2',
+                        newsletterName: 'YOUNGFABOE-X𝚳𝐃-𝛁456',
                         serverMessageId: 143
                     }
                 }
