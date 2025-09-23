@@ -50,7 +50,7 @@ async (conn, mek, m, { from, q, command, reply }) => {
             text: infoMessage,
             contextInfo: {
                 externalAdReply: {
-                    title: "ANDBAD-MD Player",
+                    title: "YOUNGFABOE-XMD Player",
                     body: "Powered by Andbad Organisation",
                     mediaType: 1,
                     sourceUrl: url,
