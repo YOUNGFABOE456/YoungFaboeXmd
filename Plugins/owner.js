@@ -35,7 +35,7 @@ END:VCARD
         await conn.sendMessage(from, {
             image: { url: 'https://files.catbox.moe/sgvdxm.jpg' },
             caption: `
-╭━━〔 *𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃-𝛁2* 〕━━┈⊷
+╭━━〔 *YOUNGFABOE-X𝚳𝐃-𝛁456* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *Here is the owner details*
 ┃◈┃• *Name*   : ${ownerName}
@@ -43,7 +43,7 @@ END:VCARD
 ┃◈┃• *Version*: 2.0.0 Beta
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-> © Power by 𝐀𝐍𝐃𝐑𝐄𝐖-𝐓𝐙🇹🇿
+> © Power by YOUNGFABOE-𝐓𝐙🇹🇿
             `.trim(),
             contextInfo: {
                 mentionedJid: [`${ownerNumber.replace('+', '')}@s.whatsapp.net`],
@@ -51,7 +51,7 @@ END:VCARD
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363315949714553@newsletter',
-                    newsletterName: '𝐀𝐍𝐃𝐑𝐄𝐖-𝐓𝐙🇹🇿',
+                    newsletterName: 'YOUNGFABOE-𝐓𝐙🇹🇿',
                     serverMessageId: 143
                 }
             }
