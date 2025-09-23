@@ -26,7 +26,7 @@ async (conn, mek, m, { from, reply, args }) => {
         const data = response.data.data;
 
         // Format the information
-        const channelInfo = `╭━━〔 *CHANNEL INFO* 〕━━┈⊷
+        const channelInfo = `╭━━〔 *FABOE-CHANNEL INFO* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *📢 Title*: ${data.title}
 ┃◈┃• *👥 Followers*: ${data.followers}
