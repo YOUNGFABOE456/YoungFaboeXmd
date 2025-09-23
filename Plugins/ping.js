@@ -38,7 +38,7 @@ async (bot, message, args, { from, quoted, sender, reply }) => {
         // Styled ping response
         const pingMessage = `
 ╭━━━〔 *⚡ PING STATUS ⚡* 〕━━━┈⊷
-┃◈ *Bot:* ANDBAD-MD-V2
+┃◈ *Bot:* YOUNGFABOE-XMD
 ┃◈ *Speed:* ${latency}s ${reactEmoji}
 ┃◈ *User:* @${sender.split('@')[0]}
 ╰━━━━━━━━━━━━━━┈⊷
@@ -54,7 +54,7 @@ async (bot, message, args, { from, quoted, sender, reply }) => {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363315949714553@newsletter',
-                        newsletterName: 'ANDBAD-MD-V2',
+                        newsletterName: 'YOUNGFABOE-XMD',
                         serverMessageId: 143
                     }
                 }
@@ -68,13 +68,13 @@ async (bot, message, args, { from, quoted, sender, reply }) => {
                     },
                     message: {
                         contactMessage: {
-                            displayName: "ANDBAD-MD-V2",
+                            displayName: "YOUNGFABOE-XMD",
                             vcard: `
 BEGIN:VCARD
 VERSION:3.0
-N:ANDBAD-MD;BOT;;;
-FN:ANDBAD-MD
-item1.TEL;waid=255783394967:+255783394967
+N:YOUNGFABOE-XMD;BOT;;;
+FN: YOUNGFABOE-XMD
+item1.TEL;waid=255759005297:+255759268584
 item1.X-ABLabel:Bot
 END:VCARD
                             `.trim()
