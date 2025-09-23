@@ -58,7 +58,7 @@ cmd({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363315949714553@newsletter',
-          newsletterName: '𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃-𝛁2',
+          newsletterName: 'YOUNGFABOE-X𝚳𝐃-𝛁456',
           serverMessageId: 143
         }
       }
@@ -69,3 +69,4 @@ cmd({
     reply("❌ Failed to download the repository. Please try again later.");
   }
 });
+
