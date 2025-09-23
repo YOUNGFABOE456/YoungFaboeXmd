@@ -1,4 +1,4 @@
-// code by ⿻ ⌜ 𝐂𝐑𝐈𝐒𝐒 ⌟⿻⃮͛🇵🇰𖤐
+// code by ⿻ ⌜ YOUNGFABOE ⌟⿻⃮͛🇵🇰𖤐
 
 const axios = require("axios");
 const config = require('../config');
@@ -31,7 +31,7 @@ async (conn, mek, m, {
     // give credit and use
     const imageMessage = {
       image: { url: screenshotUrl },
-      caption: "*WEB SS DOWNLOADER*\n\n> *© Powered By Andbad*",
+      caption: "*WEB SS DOWNLOADER*\n\n> *© Powered By Youngfaboe*",
       contextInfo: {
         mentionedJid: [m.sender],
         forwardingScore: 999,
@@ -51,4 +51,4 @@ async (conn, mek, m, {
   }
 });
 
-// ⿻ ⌜ 𝐂𝐑𝐈𝐒𝐒 ⌟⿻⃮͛🇵🇰𖤐
+// ⿻ ⌜ YOUNGFABOE ⌟⿻⃮͛🇵🇰𖤐
