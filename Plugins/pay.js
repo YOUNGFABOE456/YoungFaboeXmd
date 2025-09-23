@@ -14,8 +14,8 @@ cmd({
 ╭───〔 *${config.BOT_NAME} - DONATE* 〕───◉
 │💖 Thank you for supporting me!
 │
-│📲 *MIX-YAS:* ${config.YAS_NUMBER || "*0672334740*"}
-│💳 *Account Name:* ${config.NAME_ACCOUNT || "*BINASA ALIMINI MNUNGU*"}
+│📲 *VODA-MPESSA:* ${config.VODA_NUMBER || "*0759005296*"}
+│💳 *Account Name:* ${config.NAME_ACCOUNT || "*PAULO MAGESA MASUBI*"}
 │🌐 *PayPal:* ${config.PAYPAL_EMAIL || "Not Available"}
 │
 │🙏 Every donation helps keep the bot running and updated!
@@ -33,7 +33,7 @@ cmd({
         await conn.sendMessage(from, {
             image: { url: johso }, // optional image
             caption: donateMessage,
-            footer: "© Power by 𝐀𝐍𝐃𝐑𝐄𝐖-𝐓𝐙🇹🇿",
+            footer: "© Power by YOUNGFABOE-𝐓𝐙🇹🇿",
             buttons: buttons,
             headerType: 4 // image + buttons
         }, { quoted: mek });
@@ -44,6 +44,7 @@ cmd({
         reply("❌ An error occurred while fetching donation details.");
     }
 });
+
 
 
 
