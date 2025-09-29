@@ -12,8 +12,9 @@
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Heroku-Deploy-blueviolet?logo=heroku&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/Mrandbad/ANDBAD-MD-V2?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/Mrandbad/YOUNGFABOE-XMD-V2?style=for-the-badge" />
-</p>
+  <img src="https://img.shields.io/github/f />
+  <img src="https://img.shields.io/github/stars/YoungFaboe456/YOUNGFABOE-XMD?style=for-the-badge" />
+  <img src="https://im
 
 ---
 
@@ -45,7 +46,7 @@ Deploy your own instance of **YOUNGFABOE-X𝚳𝐃-𝛁456** quickly on Heroku:
 **Steps:**
 1. Click the **Deploy to Heroku** button above.  
 2. Wait for your Heroku app to build and launch.  
-3. Access your bot pairing code here: [Get Pairing Code](https://andbad-qr-k71b.onrender.com)  
+3. Access your bot pairing code here: [Get Pairing Code](https://youngfaboexmd-qr-k71b.onrender.com)  
 4. Copy the pairing code and scan it in your WhatsApp to link your device.  
 5. Enjoy your AI WhatsApp bot instantly!  
 
