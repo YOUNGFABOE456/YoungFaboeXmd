@@ -46,7 +46,7 @@ Deploy your own instance of **YOUNGFABOE-X𝚳𝐃-𝛁456** quickly on Heroku:
 **Steps:**
 1. Click the **Deploy to Heroku** button above.  
 2. Wait for your Heroku app to build and launch.  
-3. Access your bot pairing code here: [Get Pairing Code](https://youngfaboexmd-qr-k71b.onrender.com)  
+3. Access your bot pairing code here: [Get Pairing Code](https://andbad-qr-k71b.onrender.com)  
 4. Copy the pairing code and scan it in your WhatsApp to link your device.  
 5. Enjoy your AI WhatsApp bot instantly!  
 
