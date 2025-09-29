@@ -41,7 +41,7 @@
 
 Deploy your own instance of **YOUNGFABOE-X𝚳𝐃-𝛁456** quickly on Heroku:
 
-[![Deploy](https://www.herokucdn.cm/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Mrandbad/ANDBAD-MD-V2)
+[![Deploy](https://www.herokucdn.cm/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/YOUNGFABOE456/YoungFaboeXmd)
 
 **Steps:**
 1. Click the **Deploy to Heroku** button above.  
