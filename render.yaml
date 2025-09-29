@@ -3,7 +3,7 @@ services:
     name: YOUNGFABOE-X𝚳𝐃-𝛁456
     env: node
     plan: free
-    repo: https://github.com/Mrandbad/ANDBAD-MD-V2
+    repo: https://github.com/YOUNGFABOE456/YoungFaboeXmd
     branch: main
     buildCommand: npm install
     startCommand: npm start
